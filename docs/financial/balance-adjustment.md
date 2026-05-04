@@ -4,6 +4,8 @@
 
 The Balance Adjustment module allows administrators to manage and adjust merchant account balances. This module handles balance changes, adjustments, and maintains a complete history of all balance modifications.
 
+![Balance Adjustment](../../assets/screenshots/Balance%20Adjustment/Balance%20Adjustment.png)
+
 ## Features
 
 ### View Balance Adjustments
@@ -56,6 +58,8 @@ The Balance Adjustment module allows administrators to manage and adjust merchan
 ## Workflows
 
 ### Creating Balance Adjustment
+
+![Add Adjustment](../../assets/screenshots/Balance%20Adjustment/Add%20Adjustment.png)
 
 1. Click "Add Adjustment" button
 2. Select merchant account for adjustment

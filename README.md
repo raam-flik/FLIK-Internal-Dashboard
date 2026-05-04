@@ -16,6 +16,8 @@ The FLIK Internal Dashboard is a comprehensive administration platform designed 
 
 Main dashboard overview page displaying key metrics and performance charts.
 
+![Homepage](./assets/screenshots/Homepage.png)
+
 - Welcome and permissions display
 - Chart 1: Sales performance metrics (total vs predicted)
 - Chart 2: Growth rate analytics (export and import growth trends)

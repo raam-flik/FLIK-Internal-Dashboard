@@ -4,6 +4,8 @@
 
 The Merchant Lead module allows internal administrators to view and manage potential merchant leads before they become active merchants. This section tracks all incoming leads with their contact information and registration dates.
 
+![Merchant Lead Page](../../assets/screenshots/Merchant%20Lead/Merchant%20Lead%20Page.png)
+
 ## Features
 
 ### View Merchant Leads
@@ -18,6 +20,8 @@ The Merchant Lead module allows internal administrators to view and manage poten
 - **Action Options**: View detailed information about each lead
 
 ### Lead Details
+
+![Edit Merchant Lead](../../assets/screenshots/Merchant%20Lead/Edit%20Merchant%20Lead.png)
 
 - Click on "Detail" link to view complete information about a merchant lead
 - View lead profile information

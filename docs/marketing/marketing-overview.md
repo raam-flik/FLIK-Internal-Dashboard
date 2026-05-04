@@ -8,12 +8,22 @@ The Marketing module provides administrators with tools to manage marketing camp
 
 ### Banner Management
 
+![Banner List](../../assets/screenshots/Marketing/Banner%20List.png)
+
+![Add Banner](../../assets/screenshots/Marketing/Add%20Banner.png)
+
 - **Create Banners**: Design and publish promotional banners
 - **Banner List**: View all active and inactive banners
 - **Add Banner**: Create new banner campaigns
 - **Banner Configuration**: Set banner placement, duration, and targeting
 
 ### Push Notifications
+
+![Notification](../../assets/screenshots/Marketing/Notification.png)
+
+![Add Push Notification](../../assets/screenshots/Marketing/Add%20Push%20Notification.png)
+
+![Update Push Notification](../../assets/screenshots/Marketing/Update%20Push%20Notification.png)
 
 - **Send Notifications**: Create and deliver push notifications to users
 - **Notification History**: View all sent notifications
@@ -22,17 +32,25 @@ The Marketing module provides administrators with tools to manage marketing camp
 
 ### Brand This Week (BTW)
 
+![Brand This Week](../../assets/screenshots/Marketing/Brand%20This%20Week.png)
+
+![Add BTW Product](../../assets/screenshots/Marketing/Add%20BTW%20Product.png)
+
 - **Product Promotions**: Manage weekly product promotions
 - **Add BTW Product**: Add products to Brand This Week promotion
 - **BTW Management**: Create and manage promotion schedules
 
 ### Home Template
 
+![Home Template](../../assets/screenshots/Marketing/Home%20Template.png)
+
 - **Template Configuration**: Configure home page template
 - **Layout Management**: Manage home page layout and sections
 - **Content Customization**: Customize home page content display
 
 ### Marketing Configuration
+
+![Configuration](../../assets/screenshots/Marketing/Configuration.png)
 
 - **Platform Settings**: General marketing module settings
 - **Feature Configuration**: Enable/disable marketing features

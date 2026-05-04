@@ -4,6 +4,8 @@
 
 The Merchant List module provides administrators with a comprehensive view of all registered and active merchants on the FLIK platform. This module allows for merchant management, status tracking, and profile editing.
 
+![Merchant List Page](../../assets/screenshots/Merchant%20List/Merchant%20List%20Page.png)
+
 ## Features
 
 ### View All Merchants

@@ -4,6 +4,10 @@
 
 The Add Refund module allows internal administrators to create and process new refund requests in the system. This module provides a structured workflow for entering and managing refund transactions.
 
+![Add Refund](../../assets/screenshots/Refund%20List/Add%20Refund.png)
+
+![Add Refund 2](../../assets/screenshots/Refund%20List/Add%20Refund%202.png)
+
 ## Features
 
 ### Create New Refund

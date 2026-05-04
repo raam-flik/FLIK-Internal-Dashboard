@@ -4,6 +4,8 @@
 
 The Payment Provider module allows administrators to view and manage payment gateway configurations and payment method settings for the FLIK platform.
 
+![Payment Provider](../../assets/screenshots/Payment%20Provider/Payment%20Provider.png)
+
 ## Features
 
 ### Payment Provider Management

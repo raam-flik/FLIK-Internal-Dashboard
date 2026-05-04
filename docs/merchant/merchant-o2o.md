@@ -4,6 +4,8 @@
 
 The Merchant O2O List module manages merchants participating in the Online-to-Offline (O2O) program. This module allows administrators to add both existing merchants and new merchants to the O2O initiative.
 
+![Merchant O2O List Page](../../assets/screenshots/Merchant%20O2O%20List/Merchant%20O2O%20List%20Page.png)
+
 ## Features
 
 ### O2O Merchant Management
@@ -42,6 +44,10 @@ The Merchant O2O List module manages merchants participating in the Online-to-Of
 
 ### Adding Existing Merchant to O2O
 
+![Add Existing Merchant 1](../../assets/screenshots/Merchant%20O2O%20List/Add%20Existing%20Merchant%201.png)
+
+![Add Existing Merchant 2](../../assets/screenshots/Merchant%20O2O%20List/Add%20Existing%20Merchant%202.png)
+
 1. Click "Add Existing Merchant" button
 2. Search for and select from registered merchants (Step 1)
 3. Select specific merchant to add (Step 2)
@@ -49,6 +55,8 @@ The Merchant O2O List module manages merchants participating in the Online-to-Of
 5. Merchant now appears in O2O list
 
 ### Adding New Merchant to O2O
+
+![Add New Merchant](../../assets/screenshots/Merchant%20O2O%20List/Add%20New%20Merchant.png)
 
 1. Click "Add New Merchant" button
 2. Fill out new merchant registration form

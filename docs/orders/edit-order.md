@@ -4,6 +4,8 @@
 
 The Edit Order module allows administrators to modify and update existing order details. This module provides access to edit order information, status, and associated details.
 
+![Edit Order](../../assets/screenshots/Edit%20Order/Edit%20Order.png)
+
 ## Features
 
 ### Order Editing

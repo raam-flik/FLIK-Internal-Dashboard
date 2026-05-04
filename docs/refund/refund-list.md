@@ -4,6 +4,8 @@
 
 The Refund List module provides administrators with a comprehensive view of all refund requests in the system. This module allows for refund management, status tracking, and processing of customer refund requests.
 
+![Refund List Page](../../assets/screenshots/Refund%20List/Refund%20List%20Page.png)
+
 ## Features
 
 ### View Refund Requests

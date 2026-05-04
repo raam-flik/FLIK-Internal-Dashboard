@@ -4,6 +4,8 @@
 
 The Merchant Shopify module allows administrators to manage merchants who have integrated their Shopify stores with the FLIK platform. This module handles Shopify-connected merchant accounts and integration management.
 
+![Merchant Shopify Page](../../assets/screenshots/Merchant%20Shopify/Merchant%20Shopify%20Page.png)
+
 ## Features
 
 ### Shopify Merchant Management
@@ -33,6 +35,8 @@ The Merchant Shopify module allows administrators to manage merchants who have i
 ## Workflows
 
 ### Adding Shopify Merchant
+
+![Add Merchant](../../assets/screenshots/Merchant%20Shopify/Add%20Merchant.png)
 
 1. Click "Add Merchant" button
 2. Select or create merchant account

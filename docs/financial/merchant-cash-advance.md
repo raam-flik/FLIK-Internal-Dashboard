@@ -4,6 +4,8 @@
 
 The Merchant Cash Advance (MCA) module allows administrators to manage business financing and cash advance applications from merchants. This module handles MCA applications, approvals, sales assignments, and tracking.
 
+![Merchant Cash Advance](../../assets/screenshots/Merchant%20Cash%20Advance/Merchant%20Cash%20Advance.png)
+
 ## Features
 
 ### MCA Application Management
@@ -53,6 +55,10 @@ The Merchant Cash Advance (MCA) module allows administrators to manage business 
 
 ### Creating New MCA Application
 
+![Add Merchant Cash Advance](../../assets/screenshots/Merchant%20Cash%20Advance/Add%20Merchant%20Cash%20Advance.png)
+
+![MCA Pop Up](../../assets/screenshots/Merchant%20Cash%20Advance/MCA%20-%20Pop%20Up.png)
+
 1. Click "Add Merchant Cash Advance" button
 2. Select merchant for MCA application
 3. Enter loan/advance amount
@@ -62,6 +68,8 @@ The Merchant Cash Advance (MCA) module allows administrators to manage business 
 7. Application appears in MCA list
 
 ### Assigning Sales Representative
+
+![MCA Assign Sales](../../assets/screenshots/Merchant%20Cash%20Advance/MCA%20-%20Assign%20Sales.png)
 
 1. Open existing MCA application
 2. Click "Assign Sales" button or option

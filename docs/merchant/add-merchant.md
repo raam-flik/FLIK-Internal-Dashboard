@@ -4,6 +4,8 @@
 
 The Add Merchant module allows internal administrators to create and register new merchant accounts on the FLIK platform.
 
+![Add Merchant Page](../../assets/screenshots/Add%20Merchant/Add%20Merchant%20Page.png)
+
 ## Features
 
 ### Merchant Registration Form

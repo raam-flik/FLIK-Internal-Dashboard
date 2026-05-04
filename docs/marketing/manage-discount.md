@@ -4,6 +4,8 @@
 
 The Manage Discount module allows administrators to create and manage discount groups and promotional configurations. This module enables the creation of discount categories and community-based promotional groups.
 
+![Community Group](../../assets/screenshots/Manage%20Discount/Community%20Group.png)
+
 ## Features
 
 ### Discount Group Management
@@ -55,6 +57,8 @@ The Manage Discount module allows administrators to create and manage discount g
 ## Workflows
 
 ### Creating Discount Group
+
+![Add Group Pop Up](../../assets/screenshots/Manage%20Discount/Add%20Group%20Pop%20Up.png)
 
 1. Navigate to Manage Discount
 2. Click "Add Group" button
