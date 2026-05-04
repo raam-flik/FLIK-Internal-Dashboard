@@ -53,14 +53,7 @@ Shopify integration management for merchants.
   - Add merchants with Shopify integration
   - Integration status tracking
 
-### 4. **Bulk Purchase**
-
-Bulk purchase order management and configuration.
-
-- Create and manage bulk orders
-- Bulk order customization and editing
-
-### 5. **Refund**
+### 4. **Refund**
 
 Refund processing and management system.
 
@@ -75,7 +68,7 @@ Refund processing and management system.
   - Multi-step refund entry process
   - Manual refund processing
 
-### 6. **Merchant Cash Advance**
+### 5. **Merchant Cash Advance**
 
 Business financing and cash advance management.
 
@@ -86,7 +79,7 @@ Business financing and cash advance management.
   - Add new MCA applications
   - Track MCA progress and approvals
 
-### 7. **Balance Adjustment**
+### 6. **Balance Adjustment**
 
 Account balance and financial adjustments.
 
@@ -96,7 +89,7 @@ Account balance and financial adjustments.
   - Manage account balance changes
   - Track adjustment records
 
-### 8. **Marketing**
+### 7. **Marketing**
 
 Marketing campaign and notification management.
 
@@ -108,7 +101,7 @@ Marketing campaign and notification management.
   - Marketing notifications
   - Marketing configuration settings
 
-### 9. **Payment Provider**
+### 8. **Payment Provider**
 
 Payment gateway and provider configuration.
 
@@ -117,7 +110,7 @@ Payment gateway and provider configuration.
   - Payment provider configuration
   - Payment method management
 
-### 10. **Edit Order**
+### 9. **Edit Order**
 
 Order editing and modification system.
 
@@ -126,7 +119,7 @@ Order editing and modification system.
   - Order information updates
   - Order status management
 
-### 11. **Manage Discount**
+### 10. **Manage Discount**
 
 Discount and promotional group management.
 
@@ -168,7 +161,6 @@ Discount and promotional group management.
 ### Order Management
 
 - Edit order details
-- Manage bulk orders
 - Order information updates
 
 ## Documentation Structure
@@ -212,7 +204,6 @@ The internal dashboard features a left sidebar navigation menu with the followin
   - Merchant O2O List
   - Add Merchant O2O (quick add)
 - **Merchant Shopify** - Shopify integration management
-- **Bulk Purchase** - Bulk order management
 - **Refund** (expandable)
   - Refund List
   - Add Refund
